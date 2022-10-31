@@ -4,6 +4,7 @@ public class App {
         String[] vars = new String[] {"5", "7", "9"};
         System.out.println("The average is " + findMean(vars));
         System.out.println("Hi");
+        System.out.println("Hello again!");
     }
 
     public static double findMean(String[] vars) {
