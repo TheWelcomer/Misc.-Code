@@ -14,4 +14,9 @@ public class App {
         }
         return avg/vars.length;
     }
+    public static int addNum(int one, int two) {
+        return(one + two);
+        /*Intersection of two Arrays */
+        
+    }
 }
