@@ -58,4 +58,7 @@ def bfsNumIslands(grid):
     return numIslands
 
 grid = [["1","1","1","1","0"],["1","1","0","1","0"],["1","1","0","0","0"],["0","0","0","0","0"]]
+
+print(iterateNumIslands(grid))
+print(bfsNumIslands(grid))
 print(recurseNumIslands(grid))
